@@ -19,6 +19,7 @@
   "homepage": "https://github.com/tsteffenhagen/weekend-challenge-4#readme",
   "dependencies": {
     "body-parser": "^1.18.2",
+    "bootstrap": "^3.3.7",
     "express": "^4.16.2",
     "node": "^9.2.0",
     "pg": "^7.4.0"
